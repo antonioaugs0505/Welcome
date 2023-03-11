@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Augusto\OneDrive\Área de Trabalho\aulas-FIAP\java\welcome\.metadata\.plugins\org.eclipse.jdt.core
+3959137331.index
+1865797976.index
+45203121.index

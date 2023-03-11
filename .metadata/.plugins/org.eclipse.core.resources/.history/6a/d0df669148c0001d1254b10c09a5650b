@@ -1,0 +1,19 @@
+import javax.swing.JOptionPane;
+
+public class Welcome {
+
+	public static void main(String[] args) {
+		String nome;
+		int idade;
+		String email;
+		
+		nome = JOptionPane.showInputDialog("Digite seu nome");
+		email = JOptionPane.showInputDialog("Digite seu email");
+		idade = Integer.valueOf(JOptionPane.showInputDialog("Digite sua idade"));
+		
+		JOptionPane.showMessageDialog(null, "Bem vindo: " + nome + " ," + "seu email é: "
+		+ email + " ," +  " sua idade é: " + idade);
+
+	}
+
+}
